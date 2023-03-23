@@ -1,7 +1,7 @@
 package com.nylanomel.frontiers.init;
 
 import com.nylanomel.frontiers.Frontiers;
-import com.nylanomel.frontiers.blocks.CrusherBlock;
+import com.nylanomel.frontiers.block.CrusherBlock;
 
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
