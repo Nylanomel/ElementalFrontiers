@@ -1,0 +1,9 @@
+{
+    "item_group.frontiers.resources": "Frontiers Resources",
+
+    "block.frontiers.seared_iron_ore": "Seared Iron Ore",
+    "block.frontiers.deepslate_seared_iron_ore": "Deepslate Seared Iron Ore",
+    
+    "item.frontiers.raw_seared_iron": "Raw Seared Iron",
+    "item.frontiers.seared_iron_ingot": "Seared Iron Ingot"
+}
